@@ -1,0 +1,6 @@
+<svg class="icoPlay01" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 20">
+    <style>
+		.icoPlay01 {display:inline-block;width:0.8em;height:1em;}
+	</style>
+    <path d="M0,18.9V1.13a1.13,1.13,0,0,1,1.73-1C2.42.56,14.22,8.37,15.4,9a1.09,1.09,0,0,1,0,1.92c-.85.5-12.7,8.35-13.7,8.89A1.12,1.12,0,0,1,0,18.9Z"/>
+</svg>

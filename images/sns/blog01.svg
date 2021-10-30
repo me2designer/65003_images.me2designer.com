@@ -1,0 +1,9 @@
+<svg class="snsBlog01" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62 62" xml:space="preserve">
+	<style type="text/css">
+		.snsBlog01 {display:inline-block;width:1em;height:1em}
+		.snsBlog01 rect {fill:#41B549;}
+		.snsBlog01 path {fill:#FFFFFF;}
+	</style>
+	<rect width="62" height="62"/>
+	<path d="M32.1,24.3c-2.1,0-4.1,0.6-5.7,1.6V15.5h-7.7v31.3h7.7v-1.4c1.7,1,3.6,1.6,5.7,1.6c6.3,0,11.3-5.1,11.3-11.3 C43.4,29.4,38.3,24.3,32.1,24.3z M31.2,40.2c-2.5,0-4.6-2.1-4.6-4.6c0-2.5,2.1-4.6,4.6-4.6c2.5,0,4.6,2.1,4.6,4.6 C35.8,38.2,33.8,40.2,31.2,40.2z"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg class="snsInstagram01"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62 62">
+    <style type="text/css">
+        .snsInstagram01 {display:inline-block;width:1em;height:1em}
+        .snsInstagram01 rect {fill:url(#snsInstagram01_bg)}
+        .snsInstagram01 path {fill:#fff}
+    </style>
+    <defs>
+        <linearGradient id="snsInstagram01_bg" x1="0" y1="62" x2="62" y2="0" gradientUnits="userSpaceOnUse">    
+            <stop offset="0.03" stop-color="#fbb115"/>
+            <stop offset="0.19" stop-color="#f36232"/>
+            <stop offset="0.3" stop-color="#ee2f45"/>
+            <stop offset="0.35" stop-color="#ec1b4c"/>
+            <stop offset="0.71" stop-color="#8e2685"/>
+            <stop offset="1" stop-color="#5757a1"/>
+        </linearGradient>
+    </defs>
+    <rect width="62" height="62"/>
+    <path d="M30.9,49.5c-9.5,0-17.2-7.7-17.2-17.2s7.7-17.2,17.2-17.2s17.2,7.7,17.2,17.2S40.4,49.5,30.9,49.5L30.9,49.5z M30.9,21.2c-6.2,0-11.1,5-11.1,11.1s5,11.1,11.1,11.1S42,38.5,42,32.3l0,0C42,26.2,37.1,21.2,30.9,21.2z"/>
+    <path d="M52.8,14.8c0,2.2-1.8,4-4,4c-2.2,0-4-1.8-4-4c0-2.2,1.8-4,4-4l0,0C51,10.7,52.8,12.5,52.8,14.8z"/>
+</svg>
