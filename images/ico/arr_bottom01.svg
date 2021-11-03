@@ -1,4 +1,6 @@
-
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.9 44.5">
+<svg class="icoArrBottom01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.9 44.5">
+	<style>
+		.icoArrBottom01 {display:inline-block;width:0.874157303em;height:1em}
+	</style>
 	<path d="M3.2,22.3l13.5,13.3V0l5.6,0v35.5l13.5-13.3l3.2,3.1L19.5,44.5L0,25.4L3.2,22.3z"/>
 </svg>
