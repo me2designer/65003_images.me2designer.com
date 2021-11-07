@@ -1,3 +1,6 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.9 44.5">
+<svg class="icoTop01" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38.9 44.5">
+    <style type="text/css">
+        .icoTop01 {display:inline-block;width:0.874157303em;height:1em;}
+    </style>
     <path d="M35.7,22.3L22.3,9v35.5h-5.6V9L3.2,22.3L0,19.1L19.5,0l19.5,19.1L35.7,22.3z"/>
 </svg>
